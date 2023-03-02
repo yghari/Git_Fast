@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Git Automation Script
-
+#you can add the command you want as a function below
 #-Clone a repository
 function clone_repository() {
   echo "Enter the URL of the Git repository you want to clone:"
